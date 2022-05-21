@@ -56,7 +56,6 @@
 
 ## 🛠 Tech Stack
 **Frontend Tech Stack**  
-<div>
 <img src="https://img.shields.io/badge/react-1496FF?style=flat&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/axios-yellow?style=flat&logo=axios&logoColor=white">
 <img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=EF2D5E">
@@ -66,7 +65,8 @@
   <img src='https://img.shields.io/badge/AWS-Amazon AWS-yellow?logo=Amazon AWS'/>
    <img src='https://img.shields.io/badge/Amazon S3-569A31?logo=Amazon S3&logoColor=white'/>
   <img src='https://img.shields.io/badge/CLOUDFRONT-1261FE?logo=cloudfront'/>
-</div>
+  <img src="https://img.shields.io/badge/GreenSock-88ce02?style=flat&logo=GreenSock&logoColor=ffffff">
+
 
 **Backend Tech Stack**  
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
