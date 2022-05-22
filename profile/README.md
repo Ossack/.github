@@ -1,4 +1,4 @@
-![logo](https://velog.velcdn.com/images/ryurim0109/post/d4f5d4be-d7f2-4c99-97de-47bcca3aecc6/image.jpg
+![logo](https://velog.velcdn.com/images/ryurim0109/post/617aad8d-f4d4-45a9-9efc-eb23f73b55de/image.jpg
 )
 <br>
 [\[오싹 바로가기\]](https://ossack.shop)
