@@ -98,11 +98,12 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"> 
 <img src="https://img.shields.io/badge/Springboot-6DB33F?style=flat&logo=Springboot&logoColor=white">
 <img src="https://img.shields.io/badge/gradle-02303A?style=flat&logo=gradle&logoColor=white">
-<img src="https://img.shields.io/badge/mysql-4479A1??style=flat&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=flat&logo=AmazonAWS&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1??style=flat&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=AmazonAWS&logoColor=white"> 
 <img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub Actions-2088FF??style=flat&logo=GitHub Actions&logoColor=white"> 
-<img src="https://img.shields.io/badge/codedeploy-6DB33F??style=flat&logo=codedeploy&logoColor=white">
+<img src="https://img.shields.io/badge/AWS CodeDeploy-6DB33F??style=flat&logo=AWS Codedeploy&logoColor=white">
 <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white">
 <img src="https://img.shields.io/badge/Apache JMeter-D22128?style=flat&logo=Apache JMeter&logoColor=white">
 <img src="https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white">
+<img src="https://img.shields.io/badge/spring security-6DB33F?style=flat&logo=spring security&logoColor=white">
