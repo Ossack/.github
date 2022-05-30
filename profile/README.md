@@ -78,7 +78,7 @@
 
 ## 📜 아키텍쳐
 
-![아키텍처](https://velog.velcdn.com/images/ryurim0109/post/0a30cec0-d32e-4e37-ba69-61c34a43916f/image.jpg)
+![아키텍처](https://velog.velcdn.com/images/ryurim0109/post/620da5d2-17d1-441c-bb6a-ceceec1f7afd/image.jpg)
 ## 🛠 Tech Stack
 **Frontend Tech Stack**  
 <img src="https://img.shields.io/badge/react-1496FF?style=flat&logo=react&logoColor=white">
