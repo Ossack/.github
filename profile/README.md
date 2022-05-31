@@ -91,6 +91,7 @@
    <img src='https://img.shields.io/badge/Amazon S3-569A31?logo=Amazon S3&logoColor=white'/>
   <img src='https://img.shields.io/badge/CLOUDFRONT-1261FE?logo=cloudfront'/>
   <img src="https://img.shields.io/badge/GreenSock-88ce02?style=flat&logo=GreenSock&logoColor=ffffff">
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF??style=flat&logo=GitHub Actions&logoColor=white"> 
 
 
 **Backend Tech Stack**  
