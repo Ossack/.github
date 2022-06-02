@@ -3,11 +3,10 @@
 ![logo](https://velog.velcdn.com/images/ryurim0109/post/617aad8d-f4d4-45a9-9efc-eb23f73b55de/image.jpg
 )
 <br>
+
 👻 **[오싹 서비스 바로가기](https://ossack.shop/)**
 
-🎬 **[서비스 시연 영상]()**
-
-🎤 **[발표 영상]()**
+🎤 **[발표 영상](https://www.youtube.com/watch?v=gWXdf7JTL4U)**
 <br>
 
 ## 💻 프로젝트 소개
