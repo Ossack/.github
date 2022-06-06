@@ -6,6 +6,8 @@
 
 👻 **[오싹 서비스 바로가기](https://ossack.shop/)**
 
+🎬 **[서비스 시연 영상](https://youtu.be/xwll7_wg21E)**
+
 🎤 **[발표 영상](https://www.youtube.com/watch?v=gWXdf7JTL4U)**
 <br>
 
